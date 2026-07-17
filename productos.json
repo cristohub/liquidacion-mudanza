@@ -1,0 +1,30 @@
+[
+  {
+  "id": 1,
+  "nombre": "Impresora Láser HP LaserJet M140w",
+  "descripcion": "La HP LaserJet M140w es la impresora multifunción láser más compacta de su categoría. Ideal para uso doméstico, permite imprimir, copiar y escanear en blanco y negro con calidad profesional a 20 ppm. Cuenta con conectividad Wi-Fi, Wi-Fi Direct, Bluetooth y gestión inteligente desde el móvil con la app HP Smart. Incluye 3 años de garantía.",
+  "precio": 100,
+  "fotos": [
+    "img/Productos/Impresora laser HP LaserJet M140w/www-001028615901742-00.webp",
+    "img/Productos/Impresora laser HP LaserJet M140w/www-001028615901742-01.webp",
+    "img/Productos/Impresora laser HP LaserJet M140w/www-001028615901742-02.webp"
+  ],
+  "disponible": true
+},
+  {
+    "id": 2,
+    "nombre": "Lámpara de mesa, beige/negro",
+    "descripcion": "La pantalla de esta pequeña lámpara proyecta una luz cálida que crea sombras acogedoras y divertidas a través de sus pequeños orificios. Queda igual de bien en la ventana, en un estante o sobre la mesilla de noche.",
+    "precio": 5,
+    "fotos": [
+        "img/Productos/Lámpara de mesa/saxhyttan-lampara-mesa-beige-negro__0984127_pe816203_s5.webp",
+      "img/Productos/Lámpara de mesa/Lampara-de-mesa.webp",
+    
+      "img/Productos/Lámpara de mesa/saxhyttan-lampara-mesa-beige-negro__0984129_pe816202_s5.webp",
+      "img/Productos/Lámpara de mesa/saxhyttan-lampara-mesa-beige-negro__1057468_ph179157_s5.webp",
+      "img/Productos/Lámpara de mesa/solhetta-bombilla-led-e14-250-lumenes-vela-acanalada-transparente__1368963_pe957950_s5.webp"
+    ],
+    "disponible": true
+  }
+ 
+]
