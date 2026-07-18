@@ -715,7 +715,7 @@ html {
 .grid-productos {
     display: grid;
     grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
-    gap: 30px;
+    gap: 60px;
 }
 
 .producto-card {
@@ -760,14 +760,15 @@ html {
     padding: 20px;
     display: flex;
     flex-direction: column;
-    gap: 8px;
+    gap: 12px;
+    flex-grow: 1;
 }
 
 .producto-title-row {
     display: flex;
-    justify-content: space-between;
+    justify-content: column;
     align-items: flex-start;
-    gap: 10px;
+    gap: 60px;
 }
 
 .producto-info h3 {
@@ -775,6 +776,8 @@ html {
     font-size: 1.15rem;
     font-weight: 700;
     color: var(--ink);
+    line-height: 1.3;
+    margin: 0;
 }
 
 .producto-info .precio {
@@ -782,19 +785,26 @@ html {
     font-size: 1.2rem;
     font-weight: 700;
     color: var(--ink);
+    margin-top: 2px;
 }
 
 .producto-info .descripcion-corta {
     font-size: 0.9rem;
     color: var(--ink-soft);
     line-height: 1.4;
-    white-space: nowrap;
+
+/* Reemplazar nowrap por un corte multi-línea (máximo 2 líneas) */
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
     overflow: hidden;
     text-overflow: ellipsis;
+    height: 2.8em;
+    /* Mantiene la misma altura en todas las cards para que no se desalineen los botones */
 }
 
 .card-add-btn {
-    margin-top: 10px;
+    margin-top: auto;
     width: 100%;
     background: var(--ink);
     color: #fff;
@@ -1273,7 +1283,7 @@ html {
     max-width: 1200px;
     margin: 0 auto;
     display: grid;
-    grid-template-columns: 1fr 1fr;
+    grid-template-columns: 2fr 3fr;
     gap: 40px;
     align-items: center;
 }
@@ -1331,7 +1341,13 @@ html {
     color: #ffffff;
     margin: 0 0 4px 0;
 }
-
+.contact-text p {
+    color: rgb(255 255 255 / 84%);
+    text-decoration: none;
+    font-size: 1.05rem;
+    font-weight: 600;
+    transition: opacity 0.2s;
+}
 .contact-text a {
     color: rgb(255 255 255 / 84%);
     text-decoration: none;
@@ -1355,7 +1371,7 @@ html {
 }
 
 .thanks-word {
-    font-size: 5.5rem;
+    font-size: 3.5rem;
     font-weight: 900;
     color: #ffffff;
     text-transform: none;

@@ -1,49 +1,20 @@
 [
   {
-  "id": 1,
-  "nombre": "Impresora Láser HP LaserJet M140w",
-  "descripcion": "La HP LaserJet M140w es la impresora multifunción láser más compacta de su categoría. Ideal para uso doméstico, permite imprimir, copiar y escanear en blanco y negro con calidad profesional a 20 ppm. Cuenta con conectividad Wi-Fi, Wi-Fi Direct, Bluetooth y gestión inteligente desde el móvil con la app HP Smart. Incluye 3 años de garantía.",
-  "precio": 100,
-  "fotos": [
-    "img/Productos/Impresora laser HP LaserJet M140w/www-001028615901742-00.webp",
-    "img/Productos/Impresora laser HP LaserJet M140w/www-001028615901742-01.webp",
-    "img/Productos/Impresora laser HP LaserJet M140w/www-001028615901742-02.webp"
-  ],
-  "disponible": true
-},
+    "id": 1,
+    "nombre": "Impresora Láser HP LaserJet M140w",
+    "descripcion": "HP LaserJet M140w, la multifunción láser más compacta de su categoría. Imprime, copia y escanea en blanco y negro con calidad profesional a 20 ppm. Wi-Fi, Wi-Fi Direct, Bluetooth y control desde el móvil con la app HP Smart. Incluye 3 años de garantía. Casi nueva, se vende por debajo de su precio real, motivo salida urgente del piso.",
+    "precio": 100,
+    "fotos": [
+      "img/Productos/Impresora laser HP LaserJet M140w/www-001028615901742-00.webp",
+      "img/Productos/Impresora laser HP LaserJet M140w/www-001028615901742-01.webp",
+      "img/Productos/Impresora laser HP LaserJet M140w/www-001028615901742-02.webp"
+    ],
+    "disponible": true
+  },
   {
-    "id": 2,
-    "nombre": "Lámpara de mesa, beige/negro",
-    "descripcion": "La pantalla de esta pequeña lámpara proyecta una luz cálida que crea sombras acogedoras y divertidas a través de sus pequeños orificios. Queda igual de bien en la ventana, en un estante o sobre la mesilla de noche.",
-    "precio": 6,
-    "fotos": [
-      "img/Productos/Lámpara de mesa/Lampara-de-mesa.webp",
-        "img/Productos/Lámpara de mesa/saxhyttan-lampara-mesa-beige-negro__0984127_pe816203_s5.webp",
-      
-    
-      "img/Productos/Lámpara de mesa/saxhyttan-lampara-mesa-beige-negro__0984129_pe816202_s5.webp",
-      "img/Productos/Lámpara de mesa/saxhyttan-lampara-mesa-beige-negro__1057468_ph179157_s5.webp",
-      "img/Productos/Lámpara de mesa/solhetta-bombilla-led-e14-250-lumenes-vela-acanalada-transparente__1368963_pe957950_s5.webp"
-    ],
-    "disponible": true
-  },
-    {
-    "id": 3,
-    "nombre": "Mini Ventilador de Mesa USB",
-    "descripcion": "Pequeño ventilador de escritorio USB, Mini ventilador eléctrico portátil enchufable de 4 velocidades para ordenador de oficina, dormitorio, estudio de estudiantes, refrigeración por viento grande",
-    "precio": 5,
-    "fotos": [
-      "img/Productos/Mini ventilador/mini ventilador.webp",
-      "img/Productos/Mini ventilador/092237e4-4a98-4704-acce-38d456b6219b.webp",
-      "img/Productos/Mini ventilador/70e9290a-0d23-4dcb-9da7-e72c762e8479.webp"
-     
-    ],
-    "disponible": true
-  },
-    {
     "id": 4,
-    "nombre": "Escritorio, LAGKAPTEN / OLOV ",
-    "descripcion": "El escritorio LAGKAPTEN / OLOV (120x60 cm) es la solución ideal y compacta para teletrabajo o estudio, destacando por su elegante tablero con acabado efecto roble y sus patas negras regulables en altura que garantizan una ergonomía a tu medida. Diseñado con una estructura interna ecológica de nido de abeja, ofrece una superficie ligera pero de gran resistencia y fácil limpieza, perfecta para optimizar cualquier espacio con un estilo moderno y funcional.",
+    "nombre": "Escritorio, LAGKAPTEN / OLOV",
+    "descripcion": "Escritorio LAGKAPTEN / OLOV (120x60 cm), solución compacta e ideal para teletrabajo o estudio. Tablero efecto roble y patas negras regulables en altura para ajustar tu ergonomía. Estructura interna tipo nido de abeja: ligera, resistente y fácil de limpiar. En perfecto estado, lo dejo a muy buen precio porque ya no me cabe en el nuevo sitio.",
     "precio": 30,
     "fotos": [
       "img/Productos/Escritorio/lagkapten-olov-escritorio-efecto-roble-tinte-blanco-negro__0977602_pe813679_s5.webp",
@@ -54,67 +25,88 @@
     ],
     "disponible": true
   },
-  
   {
     "id": 5,
-    "nombre": "3 Cuadernos, OXFORD HAMELIN ",
-    "descripcion": "El cuaderno OXFORD HAMELIN (4x4 cm) es la solución ideal y compacta para teletrabajo o estudio, destacando por su elegante tablero con acabado efecto roble y sus patas negras regulables en altura que garantizan una ergonomía a tu medida. Diseñado con una estructura interna ecológica de nido de abeja, ofrece una superficie ligera pero de gran resistencia y fácil limpieza, perfecta para optimizar cualquier espacio con un estilo moderno y funcional.",
+    "nombre": "Pack de 3 Cuadernos Microperforados Oxford A4 Tapa Dura",
+    "descripcion": "Pack de 3 cuadernos microperforados A4 con tapa dura de alta resistencia y hojas cuadriculadas de 5x5 mm. Perfectos para organizar asignaturas o proyectos, con línea de trepado para arrancar hojas fácilmente. Sin usar.",
     "precio": 10,
     "fotos": [
       "img/Productos/Cuadernos/oxford-hamelin-4x4-grid-notebooks-80-sheets-pack-4-1-colors1.webp",
       "img/Productos/Cuadernos/oxford-hamelin-4x4-grid-notebooks-80-sheets-pack-4-1-colors2.webp",
       "img/Productos/Cuadernos/oxford-hamelin-4x4-grid-notebooks-80-sheets-pack-4-1-colors3.webp",
       "img/Productos/Cuadernos/oxford-hamelin-4x4-grid-notebooks-80-sheets-pack-4-1-colors.webp"
-      
-     
-    ], 
+    ],
     "disponible": true
   },
-   {
+  {
     "id": 6,
-    "nombre": "Escritorio desplegable",
-    "descripcion": "El cuaderno OXFORD HAMELIN (4x4 cm) es la solución ideal y compacta para teletrabajo o estudio, destacando por su elegante tablero con acabado efecto roble y sus patas negras regulables en altura que garantizan una ergonomía a tu medida. Diseñado con una estructura interna ecológica de nido de abeja, ofrece una superficie ligera pero de gran resistencia y fácil limpieza, perfecta para optimizar cualquier espacio con un estilo moderno y funcional.",
+    "nombre": "Mesa Plegable para Portátil",
+    "descripcion": "Mesa de cama multifuncional y plegable, perfecta para el portátil, estudiar o cenar frente al televisor. Ligera (4 kg), patas plegables que ahorran espacio y portavasos integrado para evitar derrames. No requiere montaje. Apenas usada.",
     "precio": 10,
     "fotos": [
       "img/Productos/Escritorio2/618INJjE45L._AC_SX679_.webp",
       "img/Productos/Escritorio2/71djhlpaBPL._AC_SX569_.webp"
     ],
     "disponible": true
-  } ,
-   {
-    "id": 7,
-    "nombre": "Natacion",
-    "descripcion": "El cuaderno OXFORD HAMELIN (4x4 cm) es la solución ideal y compacta para teletrabajo o estudio, destacando por su elegante tablero con acabado efecto roble y sus patas negras regulables en altura que garantizan una ergonomía a tu medida. Diseñado con una estructura interna ecológica de nido de abeja, ofrece una superficie ligera pero de gran resistencia y fácil limpieza, perfecta para optimizar cualquier espacio con un estilo moderno y funcional.",
-    "precio": 5,
-    "fotos": [
-      "img/Productos/Natacion/picture.webp",
-      "img/Productos/Natacion/picture (1).webp",
-       "img/Productos/Natacion/picture (2).webp"
-      
-    ],
-    "disponible": true
-  },
-  {
-    "id": 8,
-    "nombre": "Ping Pong",
-    "descripcion": "El cuaderno OXFORD HAMELIN (4x4 cm) es la solución ideal y compacta para teletrabajo o estudio, destacando por su elegante tablero con acabado efecto roble y sus patas negras regulables en altura que garantizan una ergonomía a tu medida. Diseñado con una estructura interna ecológica de nido de abeja, ofrece una superficie ligera pero de gran resistencia y fácil limpieza, perfecta para optimizar cualquier espacio con un estilo moderno y funcional.",
-    "precio": 0,
-    "fotos": [
-      "img/Productos/Ping/66-088_20_281_29.webp",
-      "img/Productos/Ping/66-088.webp"
-    ],
-    "disponible": true
   },
   {
     "id": 9,
-    "nombre": "Ventilador",
-    "descripcion": "El cuaderno OXFORD HAMELIN (4x4 cm) es la solución ideal y compacta para teletrabajo o estudio, destacando por su elegante tablero con acabado efecto roble y sus patas negras regulables en altura que garantizan una ergonomía a tu medida. Diseñado con una estructura interna ecológica de nido de abeja, ofrece una superficie ligera pero de gran resistencia y fácil limpieza, perfecta para optimizar cualquier espacio con un estilo moderno y funcional.",
+    "nombre": "Ventilador Silvano 10 Metal",
+    "descripcion": "Ventilador de sobremesa Silvano (25 cm) con aspas metálicas. Diseño compacto, potente y silencioso, ideal para escritorios o mesas. Funciona perfecto.",
     "precio": 8,
     "fotos": [
       "img/Productos/Ventilador/s-l960.webp",
       "img/Productos/Ventilador/s-l1600.webp"
     ],
     "disponible": true
+  },
+  {
+    "id": 2,
+    "nombre": "Lámpara de mesa, beige/negro",
+    "descripcion": "Lámpara de mesa cuya pantalla proyecta una luz cálida y crea sombras acogedoras a través de sus pequeños orificios. Queda genial en la ventana, un estante o la mesilla de noche. En muy buen estado, la dejo barata para que alguien la disfrute ya.",
+    "precio": 6,
+    "fotos": [
+      "img/Productos/Lámpara de mesa/Lampara-de-mesa.webp",
+      "img/Productos/Lámpara de mesa/saxhyttan-lampara-mesa-beige-negro__0984127_pe816203_s5.webp",
+      "img/Productos/Lámpara de mesa/saxhyttan-lampara-mesa-beige-negro__0984129_pe816202_s5.webp",
+      "img/Productos/Lámpara de mesa/saxhyttan-lampara-mesa-beige-negro__1057468_ph179157_s5.webp",
+      "img/Productos/Lámpara de mesa/solhetta-bombilla-led-e14-250-lumenes-vela-acanalada-transparente__1368963_pe957950_s5.webp"
+    ],
+    "disponible": true
+  },
+  {
+    "id": 3,
+    "nombre": "Mini Ventilador de Mesa USB",
+    "descripcion": "Mini ventilador eléctrico portátil USB con 4 velocidades, enchufable, ideal para ordenador, oficina, dormitorio o estudio. Refrigeración potente en formato compacto. Poco uso, se vende a precio simbólico, prefiero que se lo lleve alguien antes que quedarse en una caja.",
+    "precio": 5,
+    "fotos": [
+      "img/Productos/Mini ventilador/mini ventilador.webp",
+      "img/Productos/Mini ventilador/092237e4-4a98-4704-acce-38d456b6219b.webp",
+      "img/Productos/Mini ventilador/70e9290a-0d23-4dcb-9da7-e72c762e8479.webp"
+    ],
+    "disponible": true
+  },
+  {
+    "id": 7,
+    "nombre": "Pullbuoy Natación 500 Negro-Azul",
+    "descripcion": "Pullbuoy de natación ergonómico negro y azul, ideal para mejorar la técnica aislando el movimiento de piernas y aumentando la flotabilidad del torso. Perfecto para entrenamientos de fuerza en el agua.",
+    "precio": 5,
+    "fotos": [
+      "img/Productos/Natacion/picture.webp",
+      "img/Productos/Natacion/picture (1).webp",
+      "img/Productos/Natacion/picture (2).webp"
+    ],
+    "disponible": true
+  },
+  {
+    "id": 8,
+    "nombre": "Set De 6 Pelotas De Ping Pong",
+    "descripcion": "Set de 6 pelotas de ping pong. Ideales para entrenamientos, partidos casuales o diversión en casa. Nuevas sin abrir, las regalo con la compra de otro artículo o a quien pase primero a por ellas.",
+    "precio": 0,
+    "fotos": [
+      "img/Productos/Ping/66-088_20_281_29.webp",
+      "img/Productos/Ping/66-088.webp"
+    ],
+    "disponible": true
   }
-
 ]
