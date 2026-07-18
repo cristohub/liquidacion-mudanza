@@ -1260,14 +1260,13 @@ html {
 /* ============ ESTILOS SECCIÓN CONTACTO / FOOTER ============ */
 .site-footer {
     background-color: #0098db;
-    /* Fondo rojo vibrante de Figma */
     position: relative;
     overflow: hidden;
+    margin-top: 80px;
     padding: 60px 32px 30px 32px;
-    /* Sin padding abajo para que la ilustración asiente sobre la franja amarilla */
     font-family: system-ui, -apple-system, sans-serif;
     border-bottom: 50px solid #f5ca0d;
-    /* Franja amarilla inferior del diseño */
+    border-radius: 60px 60px 0px 0px;
 }
 
 .footer-container {
@@ -1378,6 +1377,7 @@ html {
 @media (max-width: 768px) {
     .site-footer {
         padding: 40px 20px 0 20px;
+       
         border-bottom: 80px solid #ffcc00;
     }
 
