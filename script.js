@@ -214,10 +214,11 @@ function actualizarInterfazCarrito() {
   let total = 0;
   carrito.forEach(item => {
     total += item.precio;
+    const itemImage = Array.isArray(item.fotos) && item.fotos.length ? item.fotos[0] : item.foto || "";
     const div = document.createElement("div");
     div.classList.add("cart-item");
     div.innerHTML = `
-      <img src="${item.foto}" alt="${item.nombre}">
+      <img src="${itemImage}" alt="${item.nombre}">
       <div class="cart-item-details">
         <h4>${item.nombre}</h4>
         <p>${item.precio}€</p>
