@@ -252,7 +252,7 @@ function enviarPedidoWhatsApp() {
     total += item.precio;
   });
 
-  mensaje += `\n*Total de la compra:* ${total}€\n\n¿Cuándo te viene bien que pase a recogerlos?`;
+  mensaje += `\n*Total de la compra:* ${total}€`;
 
   window.open(`https://wa.me/${WHATSAPP_NUMERO}?text=${encodeURIComponent(mensaje)}`, '_blank');
 }
