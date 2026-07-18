@@ -17,8 +17,9 @@
     "descripcion": "La pantalla de esta pequeña lámpara proyecta una luz cálida que crea sombras acogedoras y divertidas a través de sus pequeños orificios. Queda igual de bien en la ventana, en un estante o sobre la mesilla de noche.",
     "precio": 6,
     "fotos": [
-        "img/Productos/Lámpara de mesa/saxhyttan-lampara-mesa-beige-negro__0984127_pe816203_s5.webp",
       "img/Productos/Lámpara de mesa/Lampara-de-mesa.webp",
+        "img/Productos/Lámpara de mesa/saxhyttan-lampara-mesa-beige-negro__0984127_pe816203_s5.webp",
+      
     
       "img/Productos/Lámpara de mesa/saxhyttan-lampara-mesa-beige-negro__0984129_pe816202_s5.webp",
       "img/Productos/Lámpara de mesa/saxhyttan-lampara-mesa-beige-negro__1057468_ph179157_s5.webp",
@@ -52,6 +53,68 @@
       "img/Productos/Escritorio/lagkapten-olov-escritorio-efecto-roble-tinte-blanco-negro__1053511_pe847018_s5.webp"
     ],
     "disponible": true
+  },
+  
+  {
+    "id": 5,
+    "nombre": "3 Cuadernos, OXFORD HAMELIN ",
+    "descripcion": "El cuaderno OXFORD HAMELIN (4x4 cm) es la solución ideal y compacta para teletrabajo o estudio, destacando por su elegante tablero con acabado efecto roble y sus patas negras regulables en altura que garantizan una ergonomía a tu medida. Diseñado con una estructura interna ecológica de nido de abeja, ofrece una superficie ligera pero de gran resistencia y fácil limpieza, perfecta para optimizar cualquier espacio con un estilo moderno y funcional.",
+    "precio": 10,
+    "fotos": [
+      "img/Productos/cuadernos/oxford-hamelin-4x4-grid-notebooks-80-sheets-pack-4-1-colors (1).webp",
+      "img/Productos/cuadernos/oxford-hamelin-4x4-grid-notebooks-80-sheets-pack-4-1-colors (2).webp",
+      "img/Productos/cuadernos/oxford-hamelin-4x4-grid-notebooks-80-sheets-pack-4-1-colors (3).webp",
+      "img/Productos/cuadernos/oxford-hamelin-4x4-grid-notebooks-80-sheets-pack-4-1-colors.webp"
+      
+     
+    ],
+    "disponible": true
+  },
+   {
+    "id": 6,
+    "nombre": "Escritorio desplegable",
+    "descripcion": "El cuaderno OXFORD HAMELIN (4x4 cm) es la solución ideal y compacta para teletrabajo o estudio, destacando por su elegante tablero con acabado efecto roble y sus patas negras regulables en altura que garantizan una ergonomía a tu medida. Diseñado con una estructura interna ecológica de nido de abeja, ofrece una superficie ligera pero de gran resistencia y fácil limpieza, perfecta para optimizar cualquier espacio con un estilo moderno y funcional.",
+    "precio": 10,
+    "fotos": [
+      "img/Productos/Escritorio2/618INJjE45L._AC_SX679_.webp",
+      "img/Productos/Escritorio2/71djhlpaBPL._AC_SX569_.webp"
+    ],
+    "disponible": true
+  } ,
+   {
+    "id": 7,
+    "nombre": "Natacion",
+    "descripcion": "El cuaderno OXFORD HAMELIN (4x4 cm) es la solución ideal y compacta para teletrabajo o estudio, destacando por su elegante tablero con acabado efecto roble y sus patas negras regulables en altura que garantizan una ergonomía a tu medida. Diseñado con una estructura interna ecológica de nido de abeja, ofrece una superficie ligera pero de gran resistencia y fácil limpieza, perfecta para optimizar cualquier espacio con un estilo moderno y funcional.",
+    "precio": 5,
+    "fotos": [
+      "img/Productos/Natacion/picture.webp",
+      "img/Productos/Natacion/picture (1).webp",
+       "img/Productos/Natacion/picture (2).webp"
+      
+    ],
+    "disponible": true
+  },
+  {
+    "id": 8,
+    "nombre": "Ping Pong",
+    "descripcion": "El cuaderno OXFORD HAMELIN (4x4 cm) es la solución ideal y compacta para teletrabajo o estudio, destacando por su elegante tablero con acabado efecto roble y sus patas negras regulables en altura que garantizan una ergonomía a tu medida. Diseñado con una estructura interna ecológica de nido de abeja, ofrece una superficie ligera pero de gran resistencia y fácil limpieza, perfecta para optimizar cualquier espacio con un estilo moderno y funcional.",
+    "precio": 0,
+    "fotos": [
+      "img/Productos/Ping/66-088_20_281_29.webp",
+      "img/Productos/Ping/66-088.webp"
+    ],
+    "disponible": true
+  },
+  {
+    "id": 9,
+    "nombre": "Ventilador",
+    "descripcion": "El cuaderno OXFORD HAMELIN (4x4 cm) es la solución ideal y compacta para teletrabajo o estudio, destacando por su elegante tablero con acabado efecto roble y sus patas negras regulables en altura que garantizan una ergonomía a tu medida. Diseñado con una estructura interna ecológica de nido de abeja, ofrece una superficie ligera pero de gran resistencia y fácil limpieza, perfecta para optimizar cualquier espacio con un estilo moderno y funcional.",
+    "precio": 8,
+    "fotos": [
+      "img/Productos/Ventilador/s-l960.webp",
+      "img/Productos/Ventilador/s-l1600.webp"
+    ],
+    "disponible": true
   }
- 
-] 
+
+]
