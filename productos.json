@@ -15,7 +15,7 @@
     "id": 2,
     "nombre": "Lámpara de mesa, beige/negro",
     "descripcion": "La pantalla de esta pequeña lámpara proyecta una luz cálida que crea sombras acogedoras y divertidas a través de sus pequeños orificios. Queda igual de bien en la ventana, en un estante o sobre la mesilla de noche.",
-    "precio": 5,
+    "precio": 6,
     "fotos": [
         "img/Productos/Lámpara de mesa/saxhyttan-lampara-mesa-beige-negro__0984127_pe816203_s5.webp",
       "img/Productos/Lámpara de mesa/Lampara-de-mesa.webp",
@@ -25,6 +25,33 @@
       "img/Productos/Lámpara de mesa/solhetta-bombilla-led-e14-250-lumenes-vela-acanalada-transparente__1368963_pe957950_s5.webp"
     ],
     "disponible": true
+  },
+    {
+    "id": 3,
+    "nombre": "Mini Ventilador de Mesa USB",
+    "descripcion": "Pequeño ventilador de escritorio USB, Mini ventilador eléctrico portátil enchufable de 4 velocidades para ordenador de oficina, dormitorio, estudio de estudiantes, refrigeración por viento grande",
+    "precio": 5,
+    "fotos": [
+      "img/Productos/Mini ventilador/mini ventilador.webp",
+      "img/Productos/Mini ventilador/092237e4-4a98-4704-acce-38d456b6219b.webp",
+      "img/Productos/Mini ventilador/70e9290a-0d23-4dcb-9da7-e72c762e8479.webp"
+     
+    ],
+    "disponible": true
+  },
+    {
+    "id": 4,
+    "nombre": "Escritorio, LAGKAPTEN / OLOV ",
+    "descripcion": "El escritorio LAGKAPTEN / OLOV (120x60 cm) es la solución ideal y compacta para teletrabajo o estudio, destacando por su elegante tablero con acabado efecto roble y sus patas negras regulables en altura que garantizan una ergonomía a tu medida. Diseñado con una estructura interna ecológica de nido de abeja, ofrece una superficie ligera pero de gran resistencia y fácil limpieza, perfecta para optimizar cualquier espacio con un estilo moderno y funcional.",
+    "precio": 30,
+    "fotos": [
+      "img/Productos/Escritorio/lagkapten-olov-escritorio-efecto-roble-tinte-blanco-negro__0977602_pe813679_s5.webp",
+      "img/Productos/Escritorio/lagkapten-olov-escritorio-efecto-roble-tinte-blanco-negro__1013942_pe829476_s5.webp",
+      "img/Productos/Escritorio/lagkapten-olov-escritorio-efecto-roble-tinte-blanco-negro__0734628_pe739547_s5.webp",
+      "img/Productos/Escritorio/lagkapten-olov-escritorio-efecto-roble-tinte-blanco-negro__1053537_pe847013_s5.webp",
+      "img/Productos/Escritorio/lagkapten-olov-escritorio-efecto-roble-tinte-blanco-negro__1053511_pe847018_s5.webp"
+    ],
+    "disponible": true
   }
  
-]
+] 
