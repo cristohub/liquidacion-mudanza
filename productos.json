@@ -58,7 +58,7 @@
       "img/Productos/Ventilador/s-l960.webp",
       "img/Productos/Ventilador/s-l1600.webp"
     ],
-    "disponible": true
+    "disponible": false
   },
   {
     "id": 2,
@@ -107,6 +107,6 @@
       "img/Productos/Ping/66-088_20_281_29.webp",
       "img/Productos/Ping/66-088.webp"
     ],
-    "disponible": true
+    "disponible": false
   }
 ]
